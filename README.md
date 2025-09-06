@@ -2,9 +2,6 @@
 
 A robust, interactive command-line application developed in Python to manage a personal contact book. This application was built from the ground up, evolving from a simple procedural script to a feature-rich, object-oriented program with data persistence.
 
-![Demo Screenshot](link_to_your_screenshot.png) 
-*(Optional: You can take a screenshot of your app running and add it here for a great visual effect!)*
-
 ---
 
 ### Core Features
